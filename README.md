@@ -1,6 +1,6 @@
 [![Build Status](https://api.travis-ci.com/den4eg007/taxi-service.svg?branch=master)](https://travis-ci.com/den4eg007/taxi-service)
 # Taxi Service
-The goal of this project is to create a taxi service with authentication system and all the features that might come in handy while managing the app:
+The goal of this project is to create a taxi service with authentication system, custom injector and annotations and all the features that might come in handy while managing the app:
 - create new car / manufacturer
 - display all drivers
 - add driver to the car
